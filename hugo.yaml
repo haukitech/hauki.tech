@@ -1,4 +1,4 @@
-baseURL: http://something-fresh.org/
+relativeURLs: true
 languageCode: en-us
 title: Cloud Consulting Group
 
