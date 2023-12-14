@@ -2,14 +2,14 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "**Cloud infrastructure** and **application security**"
+  text: "In today's digital age, safeguarding your cloud environment is not just a necessity; it's a strategic advantage. We specialize in providing cutting-edge security solutions tailored to protect your cloud infrastructure and applications."
 
-  buttonPrimary:
-    label: "How we work"
-    url: "#"
+  # buttonPrimary:
+  #   label: "How we work"
+  #   url: "#"
 
-  buttonSecondary:
-    label: "Let's talk"
-    url: ""
+  # buttonSecondary:
+  #   label: "Let's talk"
+  #   url: ""
 

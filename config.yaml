@@ -13,7 +13,7 @@ summaryLength: 20
 
 params:
   title: "Hauki Tech"
-  description: "We specialize on cloud infrastructure and application security."
+  description: "We specialize in cloud infrastructure and application security."
   images: 
     - "images/hero-image.png"
 
@@ -24,21 +24,20 @@ params:
     backgroundColor: "#FFFFFF"
     faviconColor: "#000000"
 
-  social:
-    dribbble: "#"
-    instagram: "#"
-    facebook: "#"
-    twitter: "#"
+  # social:
+  #   dribbble: "#"
+  #   instagram: "#"
+  #   facebook: "#"
+  #   twitter: "#"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "ul. Jana Henryka Dąbrowskiego 77A, Poznan, Poland"
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "corporate@hauki.tech"
+    # - "207.555.0119"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2023 Hauki Tech All Rights Reserved"
 
 menus:
   main:
