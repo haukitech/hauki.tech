@@ -3,7 +3,7 @@ id: "hero"
 
 content:
   title: "Cloud Infrastructure & **Application Security**"
-  text: "In today's digital age, safeguarding your cloud environment is not just a necessity; it's a strategic advantage. We specialize in providing cutting-edge security solutions tailored to protect your cloud infrastructure and applications."
+  text: "In today's digital age, safeguarding your cloud environment is not just a necessity – it's a strategic advantage. We specialize in providing cutting-edge security solutions tailored to protect your cloud infrastructure and applications."
 
   # buttonPrimary:
   #   label: "How we work"
