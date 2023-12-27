@@ -6,14 +6,15 @@
  */
 
 @font-face {
-    font-family: 'Back Ops One';
-    src: url('/fonts/BlackOpsOne-Regular.ttf');
+    font-family: 'Fixel Display';
+    src: url('{{ site.BaseURL }}/fonts/FixelDisplay-ExtraBold.woff2') format('woff2');
+    font-weight: 800;
   }
 
 @font-face {
-    font-family: 'Fixel Display';
-    src: url('/fonts/FixelDisplay-ExtraBold.woff2');
-    font-weight: bolder;
+    font-family: 'Black Ops One';
+    src: url('{{ site.BaseURL }}/fonts/BlackOpsOne-Regular.woff2') format('woff2');
+    font-weight: normal;
   }
 
 
