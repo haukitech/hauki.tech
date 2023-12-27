@@ -12,7 +12,6 @@ title: "Hauki Tech"
 summaryLength: 20
 
 params:
-  title: "Hauki Tech"
   description: "We specialize in cloud infrastructure and application security."
   images: 
     - "images/hero-image.png"
